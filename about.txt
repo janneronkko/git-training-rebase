@@ -1,1 +1,6 @@
+
 This repository is about testing interactive rebase.
+
+The repository is used in Vincit's git training to try out
+various things you can do with rebase.
+
